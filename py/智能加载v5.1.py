@@ -26,7 +26,7 @@ class Spider(Spider):
             "name": "智能加载",
             "key": "智能加载",
             "type": 3,
-            "api": "https://github.catvod.com/https://raw.githubusercontent.com/FGBLH/EHR663/refs/heads/main/py/智能加载v5.1.py"
+            "api": "https://github.catvod.com/https://github.com/houzi1207/Hou/blob/main/py%2F%E6%99%BA%E8%83%BD%E5%8A%A0%E8%BD%BDv5.1.py"
          },
 		{
             "name": "弹幕 TG @hshsjk9",
