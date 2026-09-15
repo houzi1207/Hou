@@ -26,7 +26,7 @@ class Spider(Spider):
             "name": "智能加载",
             "key": "智能加载",
             "type": 3,
-            "api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/EHR663/refs/heads/main/py/智能加载v5.1.py"
+            "api": "https://github.catvod.com/https://raw.githubusercontent.com/FGBLH/EHR663/refs/heads/main/py/智能加载v5.1.py"
          },
 		{
             "name": "弹幕 TG @hshsjk9",
@@ -34,14 +34,14 @@ class Spider(Spider):
             "type": 3,
             "api": "csp_SecureDanmu",
             "searchable": 1,
-            "jar": "https://ghfast.top/https://raw.githubusercontent.com/goodcommunication/mydm/main/danmu-spider-native.jar",
+            "jar": "https://github.catvod.com/https://raw.githubusercontent.com/goodcommunication/mydm/main/danmu-spider-native.jar",
             "ext": {
             "apiUrls": [
             "https://danmu.iyo.us.ci/theft-dastardly-prognosis-hula-agenda2-dropkick|公益源",
             "https://logo.saodu.work:8888/87654321|公益源1",
             "https://dm.ljiaovm.com/luosen|公益源2"
             ],
-            "titleMappingsUrl": "https://ghfast.top/https://raw.githubusercontent.com/goodcommunication/mydm/main/yins.json",
+            "titleMappingsUrl": "https://github.catvod.com/https://raw.githubusercontent.com/goodcommunication/mydm/main/yins.json",
             "filter": "./lib/douban.json"
          }
 	   }
